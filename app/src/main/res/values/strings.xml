@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challange App</string>
+    <string name="strOwner">Owner:</string>
+    <string name="strID">ID:</string>
+    <string name="Name">Name:</string>
+    <string name="strFullName" >Full Name:</string>
+    <string name="ErrorConnection" >Error in connection</string>
+    <string name="btnRetry">Retry</string>
+    <string name="btnCancel">Cancel</string>
+
+</resources>
